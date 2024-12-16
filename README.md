@@ -26,6 +26,7 @@ Gehäuse außeinander bauen, Adeckung der Tasten abnehmen - Kabel an die zwei Sc
 
 #### Gehäuse
 Per Onshape designed und 3D-gedruckt
+Kann hier heruntergeladen werden: https://www.thingiverse.com/thing:6867312/files
 
 ### Konfiguration LTE Modul
 #### Raspberry vorbereiten
